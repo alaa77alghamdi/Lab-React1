@@ -24,10 +24,10 @@ function App() {
 
 
 
-<Services  Companyname= {"  A  "}  NumEmploy= { 100 } Year= { 2 } ></Services>
+<Services  typeService= {"  internt  "}  price= { 100 } ></Services>
    
-<Services  Companyname= {"  B  "}  NumEmploy= {  20 } Year= { 4 } ></Services>
-<Services  Companyname= {"  C  "}  NumEmploy= { 69 } Year= { 1 } ></Services>
+<Services  typeService= {"  webservice  "}  price= {  300 } ></Services>
+<Services  typeService= {"  programs  "}  price= { 220 }  ></Services>
    </div>
 
  
